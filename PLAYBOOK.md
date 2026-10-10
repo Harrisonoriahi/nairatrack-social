@@ -46,5 +46,8 @@ Weekly automation for NairaTrack's Instagram, Facebook and YouTube, posted throu
 - Caption: repeat the text from the image first (headline + supporting line) so people who can't play the video can still read it, then 1–2 short lines on the solution, the CTA line "👉 <phrase> nairatrack.com.ng", then 5 hashtags, e.g. #NigerianBusiness #SmallBusinessNigeria #LagosBusiness #DigitalReceipts #ReceiptTemplate #InvoiceNigeria.
 - Before scheduling, check `getScheduledPosts` for the week so nothing is doubled. After scheduling, confirm each result's media became a `static.metricool.com` URL.
 
+## Month 2 (from Nov 2026, not yet active)
+- Owner wants video titles changed to be hyper-focused. Agree the new title style with him before month 2 starts; month 1 runs keep the current title format.
+
 ## Log
 - Week 1: 01 published 10 Oct (IG, FB, YT). 02, 03, 05, 06 scheduled 12–15 Oct at 20:52.
