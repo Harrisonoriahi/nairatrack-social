@@ -13,7 +13,7 @@ Weekly automation for NairaTrack's Instagram, Facebook and YouTube, posted throu
 | 1 | Sat 10 Oct – Thu 15 Oct 2026 | Done (posts 01, 02, 03, 05, 06 in `week1/`) |
 | 2 | Mon 19 – Fri 23 Oct 2026 | Done (posts 01–05 in `week2/`) |
 | 3 | Mon 26 – Fri 30 Oct 2026 | Done (posts 01–05 in `week3/`) |
-| 4 | Mon 2 – Fri 6 Nov 2026 | To create, then the series is complete |
+| 4 | Mon 2 – Fri 6 Nov 2026 | Done (posts 01–05 in `week4/`). Series complete |
 
 - One post per day, Monday to Friday, at **20:52 Europe/Helsinki** (18:52 Lagos time).
 - Week 2 reuses the unused card `week1/04_part_payment` (part-payment wahala) as one of its 5 posts; render it into `week2/`.
@@ -27,7 +27,7 @@ Weekly automation for NairaTrack's Instagram, Facebook and YouTube, posted throu
 - **Do not** mention user numbers or counts, prices, or "free trial" / "7-day trial".
 - CTA: send people to the website and let them decide. Mostly **nairatrack.com.ng**, sometimes **nairatrack.com**. Phrases: "Visit", "Go to", "Try it at", "Switch at".
 - No Claude or AI branding anywhere in posts.
-- Topics already used (don't repeat): "I go pay you next week" (debtors/reminders); "But I paid you already" (lost paper receipts); receipt template search; part-payment balance; "A bank alert is not a receipt"; "Still writing receipts in a notebook?"; "Who is owing you right now?" (outstanding balances dashboard); "Show me your sales for last month" (record keeping); "Your customers are scattered everywhere" (customer management); "Customer in Abuja, you in Lagos" (online sellers, receipts on WhatsApp/SMS/Telegram/email); "Big order. Rough receipt." (looking professional); "Your sales girl collected ₦15,000. Where is the record?" (staff collecting money); "December rush: can you track who paid?" (busy season tracking); "Abeg, how I go send this receipt?" (support assistant in English/Pidgin); "Your friend still dey write receipt for paper?" (referral bonus).
+- Topics already used (don't repeat): "I go pay you next week" (debtors/reminders); "But I paid you already" (lost paper receipts); receipt template search; part-payment balance; "A bank alert is not a receipt"; "Still writing receipts in a notebook?"; "Who is owing you right now?" (outstanding balances dashboard); "Show me your sales for last month" (record keeping); "Your customers are scattered everywhere" (customer management); "Customer in Abuja, you in Lagos" (online sellers, receipts on WhatsApp/SMS/Telegram/email); "Big order. Rough receipt." (looking professional); "Your sales girl collected ₦15,000. Where is the record?" (staff collecting money); "December rush: can you track who paid?" (busy season tracking); "Abeg, how I go send this receipt?" (support assistant in English/Pidgin); "Your friend still dey write receipt for paper?" (referral bonus); "Tax time. Where are your records?" (2026 tax rules, records in one dashboard); "Na ₦20,000 we agree o, not ₦25,000!" (price disputes, receipt as proof); "200 payment screenshots is not a record" (payments by customer, balances); "Tired of begging customers for your own money?" (awkward debt chasing, automatic reminders); "The bank asks: Show us your sales" (records for loans/investors/supplier credit).
 
 ## Design
 - Brand: NairaTrack logo badge (`tools/logo_circle.png`), green `(38,150,33)`, dark green `(24,110,22)`, navy `(12,35,41)`, light green `(236,247,234)`, white. Font: Inter (`/usr/share/fonts/opentype/inter/`).
@@ -53,3 +53,4 @@ Weekly automation for NairaTrack's Instagram, Facebook and YouTube, posted throu
 - Week 1: 01 published 10 Oct (IG, FB, YT). 02, 03, 05, 06 scheduled 12–15 Oct at 20:52.
 - Week 2: 01 part payment (reused), 02 who is owing you, 03 sales records, 04 customers scattered, 05 online seller receipt scheduled 19–23 Oct at 20:52 (IG, FB, YT). Metricool ids 393128090, 393128105, 393128126, 393128151, 393128168.
 - Week 3: 01 receipt is your brand, 02 staff collected money, 03 December rush, 04 help in Pidgin, 05 tell your people (referral) scheduled 26–30 Oct at 20:52 (IG, FB, YT). Metricool ids 398957506, 398957526, 398957543, 398957559, 398957576.
+- Week 4: 01 tax records, 02 price dispute, 03 screenshots not a record, 04 stop begging (reminders), 05 bank asks for sales scheduled 2–6 Nov at 20:52 (IG, FB, YT). Metricool ids 412728806, 412728813, 412728825, 412728833, 412728837. 4-week series complete.
